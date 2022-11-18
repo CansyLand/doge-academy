@@ -1,5 +1,8 @@
 
-#Doge Academy
+# Doge Academy
+
+![Doge Academy Banner](https://github.com/CansyLand/doge-academy/blob/main/wiki/doge-academy-banner.png "Doge Academy Banner")
+
 ## About
 Doge Academy is an open source visual novel featuring the famous Doge meme attending an all-shibe school in Tokyo.
 
