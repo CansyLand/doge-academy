@@ -35,9 +35,15 @@ Klassische E-Mail geht auch ;) cansyland+doge@gmail.com
 Wir freuen uns über eine Dogecoin Spende: DHQ8Y7ZMV2kPSh7VCxFo1USXEQ5Q6ZumXR
 
 ## Credits
-Hintergrundbilder: [@NoranekoGames](https://twitter.com/NoranekoGames "@NoranekoGames") auf Twitter
-Musik: [abstractionmusic.com](http://abstractionmusic.com/ "abstractionmusic.com")
-Spiele Engine: [Kirill Live](https://twitter.com/Kirill_Live_ "Kirill Live") auf Twitter
+Hintergrundbilder: [@NoranekoGames](https://twitter.com/NoranekoGames "@NoranekoGames") auf Twitter \
+https://noranekogames.itch.io/yumebackground
+
+Musik: [abstractionmusic.com](http://abstractionmusic.com/ "abstractionmusic.com") \
+https://tallbeard.itch.io/music-loop-bundle
+
+Spiele Engine: [Kirill Live](https://twitter.com/Kirill_Live_ "Kirill Live") auf Twitter \
+https://github.com/Kirilllive/tuesday-js
+
 Doge QR-Code: [@SnazzyGaz](https://www.reddit.com/r/dogecoin/comments/7k71zn/post_your_receiving_address_for_a_custom_qr_code/ "@SnazzyGaz") auf Reddit
 
 ## Wiki
