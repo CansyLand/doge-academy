@@ -10,9 +10,9 @@ Navigate your way through high school as a dog and make friends (or enemies!) al
 It was created within 3 days on Doge Hackathon (Dogeathon) 2022 
 
 ## Purpose
-Allot of people think blockchain is scary and complicated.
+Crypto is for allot of people still an intimidating topic with requires allot of technical knowledge. I would like to create a little game that teaches you the basics of Dogecoin in a fun way. 🐕
 
-The purpose of this game is to educate people in the most fun way about Dogecoin and how to be an active part of the community 
+The purpose of this game is to educate people in the most fun way about Dogecoin and how to be an active part of the community 🐕
 
 ## How to Play
 You can run the game in you browser https://cansyland.github.io/doge-academy
