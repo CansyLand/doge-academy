@@ -16,7 +16,7 @@ Crypto is for allot of people still an intimidating topic with requires allot of
 The purpose of this game is to educate people in the most fun way about Dogecoin and how to be an active part of the community 🐕
 
 ## How to Play
-You can run the game in you browser https://cansyland.github.io/doge-academy
+You can run the game in you browser <a href="https://cansyland.github.io/doge-academy" target="_blank">https://cansyland.github.io/doge-academy</a> 
 
 #### Run localy
 If you want to run the game localy you can download the [docs folder](https://github.com/CansyLand/doge-academy/tree/main/docs "docs folder")  and open the index.html file in your browser.
