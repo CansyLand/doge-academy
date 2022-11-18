@@ -3,6 +3,8 @@
 
 ![Doge Academy Banner](https://github.com/CansyLand/doge-academy/blob/main/wiki/doge-academy-banner.png "Doge Academy Banner")
 
+[Deutsche Version](https://github.com/CansyLand/doge-academy/blob/main/README_DE.md)
+
 ## About
 Doge Academy is an open source visual novel featuring the famous Doge meme attending an all-shibe school in Tokyo.
 
@@ -39,9 +41,9 @@ Doge QR code by: [@SnazzyGaz](https://www.reddit.com/r/dogecoin/comments/7k71zn/
 
 ## Wiki
 
-[Click here to learn more about the characters.](https://github.com/CansyLand/doge-academy/wiki/Characters)
+[Click here](https://github.com/CansyLand/doge-academy/wiki/Characters) to learn more about the characters.
 
-[Click here to learn more about the story.](https://github.com/CansyLand/doge-academy/wiki/Story)
+[Click here](https://github.com/CansyLand/doge-academy/wiki/Story) to learn more about the story.
 
 
 ### Coming Soon
