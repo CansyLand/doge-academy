@@ -7,7 +7,7 @@
 Doge Academy is an open source visual novel featuring the famous Doge meme attending an all-shibe school in Tokyo.
 
 The catch? You actually learn how Dogecoin works!
-Navigate your way through high school as a dog and make friends (or enemies!) along the way.
+Navigate your way through high school as a dog and make friends along the way.
 
 It was created within 3 days on Doge Hackathon (Dogeathon) 2022 
 
