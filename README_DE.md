@@ -3,6 +3,8 @@
 
 ![Doge Academy Banner](https://github.com/CansyLand/doge-academy/blob/main/wiki/doge-academy-banner.png "Doge Academy Banner")
 
+[English version](https://github.com/CansyLand/doge-academy/blob/main/README.md)
+
 ## Über
 Doge Academy ist ein Open Source Visual Novel dessen Hauptcharakter, das berühmte Doge Meme, eine Schule in Tokyo besucht.
 
