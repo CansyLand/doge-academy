@@ -34,9 +34,15 @@ or write me an email cansyland+doge@gmail.com
 Doge tip is appreciated DHQ8Y7ZMV2kPSh7VCxFo1USXEQ5Q6ZumXR
 
 ## Credits
-Backgrounds by: [@NoranekoGames](https://twitter.com/NoranekoGames "@NoranekoGames") on Twitter
-Music by: [abstractionmusic.com](http://abstractionmusic.com/ "abstractionmusic.com")
-Game Engine by: [Kirill Live](https://twitter.com/Kirill_Live_ "Kirill Live") on Twitter
+Backgrounds by: [@NoranekoGames](https://twitter.com/NoranekoGames "@NoranekoGames") on Twitter \
+https://noranekogames.itch.io/yumebackground
+
+Music by: [abstractionmusic.com](http://abstractionmusic.com/ "abstractionmusic.com") \
+https://tallbeard.itch.io/music-loop-bundle
+
+Game Engine by: [Kirill Live](https://twitter.com/Kirill_Live_ "Kirill Live") on Twitter \
+https://github.com/Kirilllive/tuesday-js
+
 Doge QR code by: [@SnazzyGaz](https://www.reddit.com/r/dogecoin/comments/7k71zn/post_your_receiving_address_for_a_custom_qr_code/ "@SnazzyGaz") on reddit
 
 ## Wiki
