@@ -39,7 +39,9 @@ Doge QR code by: [@SnazzyGaz](https://www.reddit.com/r/dogecoin/comments/7k71zn/
 
 ## Wiki
 
+[Click here to learn more about the characters.](https://github.com/CansyLand/doge-academy/wiki/Characters)
 
+[Click here to learn more about the story.](https://github.com/CansyLand/doge-academy/wiki/Story)
 
 
 ### Coming Soon
