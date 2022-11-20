@@ -5,7 +5,7 @@
 
 [English version](https://github.com/CansyLand/doge-academy/blob/main/README.md)
 
-## Über
+## Wow Über
 Doge Academy ist ein Open Source Visual Novel dessen Hauptcharakter, das berühmte Doge Meme, eine Schule in Tokyo besucht.
 
 
@@ -14,7 +14,7 @@ Behaupte dich als Doge in der Akademie und lerne neue Freunde kennen.
 
 Dieses Spiel wurde innerhalb 3 Tagen im Doge Hackathon gemacht (Dogeathon 2022)
 
-## Absicht
+## Much Absicht
 
 Blockchain ist für viele Leute immer noch etwas Einschüchterndes, was technisches Wissen erfordert.
 Der Zweck des Spiels ist es auf eine spaßige Art die Konzepte von Dogecoin und der Community näherzubringen 🐕
@@ -28,11 +28,24 @@ Wenn du das Spiel lokal spielen möchtest, kannst du den Ordner [docs](https://g
 ## Das Spiel bearbeiten
 Lade den [docs Ordner](https://github.com/CansyLand/doge-academy/tree/main/docs "docs Ordner") herunter und öffne ihn im [Tuesday JS](https://kirilllive.github.io/tuesday-js/ "Tuesday JS") Editor. (Ein browserbasierter Visual Novel Editor)
 
+<img src="https://github.com/CansyLand/doge-academy/blob/main/wiki/readme/i-want-you.png?raw=true"
+     alt="I want you Doge meme"
+     style="width: 740px" />
+
 ## Wie kann ich beitragen?
 Wenn du Ideen hast oder eine Szene / Minispiel kreiert hast welches etwas über Dogecoin beibring, dann kannst du unserem [Discord](https://discord.gg/yGUHYDzybR "Discord Invite") beitreten, oder mich auf Twitter [@CansyLand](https://twitter.com/CansyLand "@CansyLand") anschreiben.
 Klassische E-Mail geht auch ;) cansyland+doge@gmail.com
 
-Wir freuen uns über eine Dogecoin Spende: DHQ8Y7ZMV2kPSh7VCxFo1USXEQ5Q6ZumXR
+<div >
+  <img src="https://github.com/CansyLand/doge-academy/blob/main/wiki/readme/doge-wallet.png?raw=true"
+     alt="I want you Doge meme"
+     style="width: 150px; float:left;" />
+  <img src="https://github.com/CansyLand/doge-academy/blob/main/wiki/readme/tip-meme.jpg?raw=true"
+     alt="Doge tiping meme"
+     style="height: 150px; float:left;" />
+</div>
+
+Wir freuen uns über eine Dogecoin Spende: DB6oiLJPCD3HdEzAARnW248r992EHLdTVY
 
 ## Credits
 Hintergrundbilder: [@NoranekoGames](https://twitter.com/NoranekoGames "@NoranekoGames") auf Twitter \
